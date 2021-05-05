@@ -14,12 +14,12 @@ Scrypt Proof of Work
 
 Random block rewards to encourage individuals to participate in the mining process.
 
-1-100,000: 0-1,000,000 Bunnycoin Reward
-100,001 — 200,000: 0-500,000 Bunnycoin Reward(random)
-200,001 — 300,000: 0-250,000 Bunnycoin Reward(random)
-300,001 — 400,000: 0-125,000 Bunnycoin Reward(random)
-400,001 — 500,000: 0-62,500 Bunnycoin Reward(random)
-500,001 — 600,000: 0-31,250 Bunnycoin Reward(random)
+1-100,000: 0-1,000,000 Bunnycoin Reward<br />
+100,001 — 200,000: 0-500,000 Bunnycoin Reward(random)<br />
+200,001 — 300,000: 0-250,000 Bunnycoin Reward(random)<br />
+300,001 — 400,000: 0-125,000 Bunnycoin Reward(random)<br />
+400,001 — 500,000: 0-62,500 Bunnycoin Reward(random)<br />
+500,001 — 600,000: 0-31,250 Bunnycoin Reward(random)<br />
 600,000+ : 0-10,000 Bunnycoin Reward (random)
 
 ### Ports
